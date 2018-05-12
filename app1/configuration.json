@@ -1,0 +1,15 @@
+{
+  "Routes" :  {
+    "ReRoutes": [
+      {
+        "DownstreamPathTemplate": "/",
+        "DownstreamScheme": "http",
+        "DownstreamPort": 80,
+        "DownstreamHost": "servicea",
+        "UpstreamPathTemplate": "/a/",
+        "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ]
+      }
+    ],
+    "GlobalConfiguration": {}
+  }
+}
