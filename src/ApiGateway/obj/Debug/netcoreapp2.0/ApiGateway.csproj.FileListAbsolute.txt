@@ -1,8 +1,0 @@
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.deps.json
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.dll
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.pdb
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.csproj.CoreCompileInputs.cache
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.AssemblyInfoInputs.cache
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.AssemblyInfo.cs
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.dll
-D:\Coding\My Github\Hasu.ApiGateway\src\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.pdb
