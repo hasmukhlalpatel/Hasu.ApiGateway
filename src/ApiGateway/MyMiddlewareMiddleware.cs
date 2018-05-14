@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using System.Linq;
 
-namespace app1
+namespace ApiGateway
 {
     public class MyMiddlewareMiddleware : IMiddleware
     {
