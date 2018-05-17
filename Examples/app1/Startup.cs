@@ -47,7 +47,7 @@ namespace app1
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMyMiddlewareMiddleware();
+            app.BuildApiGatewayPipeline();
 
             app.Run(async (context) =>
             {
