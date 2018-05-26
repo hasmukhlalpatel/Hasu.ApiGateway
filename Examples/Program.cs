@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            SimpleListenerExample(new string[] { "http://localhost:8083/", "http://localhost:8084/", "http://syscap-040445:8084/" });
+            SimpleListenerExample(new string[] { "http://localhost:8083/", "http://localhost:8084/"});
             Console.WriteLine("Hello World!");
         }
 
